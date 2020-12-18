@@ -107,10 +107,10 @@ export const BlueBorderButton = styled(RedBorderButton)`
 
 export const MinusOrPlusButton = styled(Button)`
   border-style:solid;
-  border-color:#3498db
+  border-color:#3498db;
   border-width: 1px 1px 1px 1px;
   padding: 5px;
-  margin: 0 10px
+  margin: 0 10px;
   max-width: 30px;
   max-height: 30px;
   background-color:white;
