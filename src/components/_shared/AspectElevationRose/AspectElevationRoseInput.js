@@ -1,6 +1,6 @@
 import React from "react";
 import {Colors} from "../../../constants/colors";
-import {Field, InputLabel, InputLabelText} from "../../_shared/FormComponents";
+import {Field, InputLabel, InputLabelText} from "../FormComponents";
 import AspectElevationRoseSVG from "./AspectElevationRoseSVG";
 
 const AspectElevationRoseInput = props => {
